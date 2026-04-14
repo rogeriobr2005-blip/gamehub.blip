@@ -64,7 +64,6 @@ Neste projeto, foram aplicados conceitos importantes como:
 ![detalhes]<img width="1918" height="910" alt="desc-gamehub" src="https://github.com/user-attachments/assets/385bc56b-c34f-44ff-a99a-886caf75d6e3" />
 
 ---
-![Uploading desc-gamehub.png…]()
 
 ## 🔗 Acesse o Projeto
 
