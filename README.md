@@ -2,8 +2,6 @@
 
 Uma plataforma web interativa para descoberta e exploração de jogos, com integração em tempo real com a API da RAWG.
 
-![preview](./preview.png)
-
 ---
 
 ## 🚀 Sobre o Projeto
@@ -60,8 +58,6 @@ Neste projeto, foram aplicados conceitos importantes como:
 ---
 
 ## 📸 Preview
-
-> Adicione aqui prints do projeto 👇
 
 ![home]<img width="1918" height="917" alt="home-gamehub" src="https://github.com/user-attachments/assets/d8bf46d7-b9c2-4463-a19e-80a51aec85b5" />
 ![jogos]<img width="1918" height="915" alt="jogos-gamehub" src="https://github.com/user-attachments/assets/2091be3e-4d74-4d94-a2d1-6833549a7c49" />
